@@ -1,0 +1,4 @@
+"""wisperWebApplication"""
+
+def main():
+    pass
